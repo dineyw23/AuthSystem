@@ -1,0 +1,12 @@
+﻿body {
+}
+.CellPatern {
+    border:solid;
+    border-width:1px;
+    border-bottom:none;
+    border-right:none;
+}
+.PwdPtnCellPatern {
+    border:solid;
+    border-width:1px;
+}
